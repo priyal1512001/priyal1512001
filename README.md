@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Priyal Tiwari</h1>
+<h1 align="center">Hello World!!, I'm Priyal Tiwari</h1>
 <h3 align="center">A beginner and a learner in frontend Development</h3>
 <img align = "right" alt = "coding" width = "400" src = "https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
