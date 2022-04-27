@@ -7,5 +7,5 @@
 - 🌱 I’m currently learning 3D designing and animation in the frontend development.
 - 📫 How to reach me: 
 - 😄 Pronouns: she/her.
--
+-  a bit interested in writng research Paper. 
 
